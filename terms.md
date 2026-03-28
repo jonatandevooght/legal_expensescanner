@@ -45,4 +45,4 @@ To the extent permitted by law, we are not liable for indirect, incidental, spec
 We may suspend or terminate access if you violate these terms or misuse the service.
 
 ## 11. Contact
-If you have any questions or need support regarding these Terms & Conditions or the app, please contact us at: support.snapcart@gmail.com
+If you have any questions or need support regarding these Terms & Conditions or the app, please contact us at: supportsnapcart@gmail.com
